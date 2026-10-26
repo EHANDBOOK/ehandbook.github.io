@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>ETAS EHANDBOOK</title>
+    <link>https://ehandbook.etas.com</link>
+    <description>RSS feed for ETAS EHANDBOOK.</description>
+    <item>
+      <title>EHANDBOOK Version 14.4</title>
+      <link>https://docs.etas.com/ehandbook/ehandbook/whats-new/version_14_4.html</link>
+      <description>New EHANDBOOK Version 14.4 available. Please read the What's New section for details.</description>
+      <guid isPermaLink="true">https://docs.etas.com/ehandbook/ehandbook/whats-new/version_14_4.html</guid>
+    </item>
+	<item>
+      <title>EHANDBOOK Version 14.3</title>
+      <link>https://docs.etas.com/ehandbook/ehandbook/whats-new/version_14_3.html</link>
+      <description>New EHANDBOOK Version 14.3 available. Please read the What's New section for details.</description>
+      <guid isPermaLink="true">https://docs.etas.com/ehandbook/ehandbook/whats-new/version_14_3.html</guid>
+    </item>
+  </channel>
+</rss>
